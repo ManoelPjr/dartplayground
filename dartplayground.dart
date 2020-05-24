@@ -5,7 +5,7 @@
  Bool
  Dynamic parecida com o tipo Variant do Delphi
 */
-import 'dart:io';
+
 main(){
 int Intamount1 = 100;
 var Intamount2 = 200;
